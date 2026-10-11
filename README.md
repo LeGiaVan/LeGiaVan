@@ -1,10 +1,18 @@
 <div align="center">
-  <!-- Hình đại diện xịn xò -->
-  <img src="images/profille.png" alt="Le Gia Van" width="600" style="border-radius: 12px; margin-bottom: 20px;" />
+
+  <!-- Ảnh đại diện được thu nhỏ, bo tròn gọn gàng và cân đối -->
+  <img src="https://github.com/user-attachments/assets/9482a35e-24f7-4ab8-82cd-4dbe7086ef68" 
+       alt="Le Gia Van" 
+       width="220" 
+       height="auto" 
+       style="border-radius: 50%; border: 3px solid #306ee8; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
+  
   # Hi there, I'm Le Gia Van 👋
   
-  **AI Engineer · Data Engineering · Applied Machine Learning**
+  **AI Engineer · Applied Machine Learning**
   
+  <br>
+
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legiavan.forwork@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeGiaVan)
 
@@ -25,6 +33,8 @@
 
 ### 🛠️ Technical Arsenal
 
+<div align="center">
+  
 **Programming & Scripting**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -49,6 +59,8 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+</div>
 
 ---
 

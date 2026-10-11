@@ -72,6 +72,8 @@
 | 🤖 **[OpenBCTC Copilot](https://github.com/LeGiaVan/OpenBCTC-Copilot)** | RAG-powered chatbot supporting advanced analysis of financial statements extracted by the OpenBCTC pipeline. | `Python`, `RAG`, `LLMs` |
 | ⚡ **[NorthStream](https://github.com/LeGiaVan/DatebayoZenith)** *(CDC Pipeline)* | Engineered monitoring/alerting infrastructure for a real-time CDC replication pipeline, ensuring high availability for data lakehouse environments. | `Debezium`, `Prometheus`, `Grafana`, `PagerDuty` |
 | 🚢 **[Zero-stop e-Border](https://github.com/LeGiaVan/Zero_Stop_e_Border)** | *Hackathon Winner:* Full-stack AI customs clearance solution. Automated container inspection via CV and legal compliance retrieval via LangChain vector search. | `CV`, `LangChain`, `Vector Search`, `LLM` |
+| 🍅 **[TomatoAI](https://github.com/LeGiaVan/TOMATOAI)** | *v1 Prototype (Coursework Lead):* Smart greenhouse assistant for tomato growers. Orchestrated IoT sensor alerts, leaf disease diagnosis, harvest ripeness grading, and voice consultation via Telegram. | `n8n`, `Telegram Bot`, `Groq`, `Computer Vision`, `IoT (MQTT)` |
+
 
 ---
 
